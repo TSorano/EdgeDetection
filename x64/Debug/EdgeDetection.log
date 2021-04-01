@@ -1,0 +1,17 @@
+﻿D:\Program Files\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  ED1.cpp
+F:\Works\CPP\Oshigoto\EdgeDetection\EdgeDetection\ED1.cpp(96,24): warning C4244: “*=”: 从“float”转换到“int”，可能丢失数据
+F:\Works\CPP\Oshigoto\EdgeDetection\EdgeDetection\ED1.cpp(175,35): warning C4244: “=”: 从“COLORREF”转换到“short”，可能丢失数据
+F:\Works\CPP\Oshigoto\EdgeDetection\EdgeDetection\ED1.cpp(176,35): warning C4244: “=”: 从“COLORREF”转换到“short”，可能丢失数据
+F:\Works\CPP\Oshigoto\EdgeDetection\EdgeDetection\ED1.cpp(177,35): warning C4244: “=”: 从“COLORREF”转换到“short”，可能丢失数据
+F:\Works\CPP\Oshigoto\EdgeDetection\EdgeDetection\ED1.cpp(178,35): warning C4244: “=”: 从“COLORREF”转换到“short”，可能丢失数据
+F:\Works\CPP\Oshigoto\EdgeDetection\EdgeDetection\ED1.cpp(179,40): warning C4244: “=”: 从“COLORREF”转换到“short”，可能丢失数据
+F:\Works\CPP\Oshigoto\EdgeDetection\EdgeDetection\ED1.cpp(180,35): warning C4244: “=”: 从“COLORREF”转换到“short”，可能丢失数据
+F:\Works\CPP\Oshigoto\EdgeDetection\EdgeDetection\ED1.cpp(181,35): warning C4244: “=”: 从“COLORREF”转换到“short”，可能丢失数据
+F:\Works\CPP\Oshigoto\EdgeDetection\EdgeDetection\ED1.cpp(182,35): warning C4244: “=”: 从“COLORREF”转换到“short”，可能丢失数据
+F:\Works\CPP\Oshigoto\EdgeDetection\EdgeDetection\ED1.cpp(183,35): warning C4244: “=”: 从“COLORREF”转换到“short”，可能丢失数据
+F:\Works\CPP\Oshigoto\EdgeDetection\EdgeDetection\ED1.cpp(196,60): warning C4244: “=”: 从“short”转换到“byte”，可能丢失数据
+F:\Works\CPP\Oshigoto\EdgeDetection\EdgeDetection\ED1.cpp(329,78): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\Works\CPP\Oshigoto\EdgeDetection\EdgeDetection\ED1.cpp(332,72): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\Works\CPP\Oshigoto\EdgeDetection\EdgeDetection\ED1.cpp(402,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  EdgeDetection.vcxproj -> F:\Works\CPP\Oshigoto\EdgeDetection\x64\Debug\EdgeDetection.exe
